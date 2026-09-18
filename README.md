@@ -25,7 +25,7 @@ O arquivo `teste.py` solicita ao usuário:
 * Idade
 * Peso
 
-E exibe essas informações no terminal.
+E exibe essas informações no terminal. Este exercício demonstra a coleta de dados do usuário e a sua impressão no terminal em um formato simples.
 
 ### Código
 
